@@ -1,0 +1,9 @@
+contents="bashcms2_contents"
+contents_owner="lawliteqed"
+
+
+wwwdir="/var/www"
+contentsdir="$wwwdir/$contents"
+appdir="$wwwdir/bashcms2"
+viewdir="$appdir/bin/view"
+logdir="/var/log/$contents"
